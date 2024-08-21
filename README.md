@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning differnt tools and attack vectors around offensive Cyber Security
+- 🔭 I’m currently working on being smarter 🤔
+    
 <!--
 **thegeekgirl/thegeekgirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

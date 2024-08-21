@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-_/  |_|  |__   ____   ____   ____   ____ |  | __  ____ |__|______|  |  
-\   __\  |  \_/ __ \ / ___\_/ __ \_/ __ \|  |/ / / ___\|  \_  __ \  |  
- |  | |   Y  \  ___// /_/  >  ___/\  ___/|    < / /_/  >  ||  | \/  |__
- |__| |___|  /\___  >___  / \___  >\___  >__|_ \\___  /|__||__|  |____/
-           \/     \/_____/      \/     \/     \/_____/                 
 - 🌱 I’m currently learning different tools and attack vectors around offensive Cyber Security
 - 🔭 I’m currently working on being smarter 🤔
     

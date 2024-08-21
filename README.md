@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning differnt tools and attack vectors around offensive Cyber Security
+- 🌱 I’m currently learning different tools and attack vectors around offensive Cyber Security
 - 🔭 I’m currently working on being smarter 🤔
     
 <!--

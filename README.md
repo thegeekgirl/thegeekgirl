@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🌱 I’m currently learning different tools and attack vectors around offensive Cyber Security
-- 🔭 I’m currently working on being smarter 🤔
+- 🔭 I’m currently having a ton of fun with some hardware hacking gadgets 🤔
     
 <!--
 **thegeekgirl/thegeekgirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

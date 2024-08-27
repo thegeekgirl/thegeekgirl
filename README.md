@@ -4,7 +4,7 @@
 - 🔭 I’m currently having a ton of fun with some hardware hacking gadgets 🤔
 
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFmd29qMWsyaXp1a3JsamZhY3kwenFjZ20ycWlmeDBuOGdwOG9iMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A06UFEx8jxEwU/giphy.gif" width="800"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWY2cXh0cmY2a2o4djcwMnlyYTN0dm9teHAxMmc2cWVicDk2bmptbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3FQ87l4tXAZWGvV3yY/giphy.gif" width="200"/>
 </div>
 
 <div id="badges">

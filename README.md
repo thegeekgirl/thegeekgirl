@@ -7,11 +7,8 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWY2cXh0cmY2a2o4djcwMnlyYTN0dm9teHAxMmc2cWVicDk2bmptbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3FQ87l4tXAZWGvV3yY/giphy.gif" width="200"/>
 </div>
 
-<div id="badges" align="center">
- <a href="https://www.linkedin.com/in/jenthegeekgirl/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> <br>
-  </a>
-    <img src="https://komarev.com/ghpvc/?username=thegeekgirl&style=flat-square&color=blue" alt=""/>
+<div align"center">
+<img alt="Static Badge" src="https://img.shields.io/badge/Notion-Green?link=https%3A%2F%2Fladyj.notion.site%2FLadyJs-Hacks-Hijinks-Chronicles-of-a-Digital-Daredevil-3f007b090ca34037a6a36c0ee8c54c21">
 </div>
 <br>
 <div align="center">

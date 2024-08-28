@@ -9,7 +9,8 @@
 
 <div align="center">
   <a href="https://ladyj.notion.site/LadyJs-Hacks-Hijinks-Chronicles-of-a-Digital-Daredevil-3f007b090ca34037a6a36c0ee8c54c21">
-<img alt="Static Badge" src="https://img.shields.io/badge/Notion-Green?link=https%3A%2F%2Fladyj.notion.site%2FLadyJs-Hacks-Hijinks-Chronicles-of-a-Digital-Daredevil-3f007b090ca34037a6a36c0ee8c54c21">
+<img alt="Static Badge" src="https://img.shields.io/badge/My%20Notion%20Site-Green?link=https%3A%2F%2Fladyj.notion.site%2FLadyJs-Hacks-Hijinks-Chronicles-of-a-Digital-Daredevil-3f007b090ca34037a6a36c0ee8c54c21">
+
   </a>
   </div>
 <br>

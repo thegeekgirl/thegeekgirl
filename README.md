@@ -7,9 +7,11 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWY2cXh0cmY2a2o4djcwMnlyYTN0dm9teHAxMmc2cWVicDk2bmptbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3FQ87l4tXAZWGvV3yY/giphy.gif" width="200"/>
 </div>
 
-<div align"center">
+<div align="center">
+  <a href="https://ladyj.notion.site/LadyJs-Hacks-Hijinks-Chronicles-of-a-Digital-Daredevil-3f007b090ca34037a6a36c0ee8c54c21">
 <img alt="Static Badge" src="https://img.shields.io/badge/Notion-Green?link=https%3A%2F%2Fladyj.notion.site%2FLadyJs-Hacks-Hijinks-Chronicles-of-a-Digital-Daredevil-3f007b090ca34037a6a36c0ee8c54c21">
-</div>
+  </a>
+  </div>
 <br>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;

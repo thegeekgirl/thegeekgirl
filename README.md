@@ -1,6 +1,6 @@
 ## About me👋
 
-- 🌱 I’m currently learning different tools and attack vectors around offensive Cyber Security
+- 🌱 I’m currently working with different tools and attack vectors around offensive Cyber Security
 - 🔭 I’m currently having a ton of fun with some hardware hacking gadgets 🤔
 
 <div id="header" align="center">
